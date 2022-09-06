@@ -4,5 +4,5 @@ HW1 : combine2 ~ combine4에서의 최적화 기법 확인 & CPE 측정 및 변�
       
 HW2 : 최적화 기법을 적용하여 SSIM 코드의 최적화를 수행 <br/><br/>
 
-Project : 이미지를 식별하는 인공신경망을 Machine-independent & dependent 기법을 활용하여 최적화 <br/>
+Project : 숫자 이미지를 식별하는 인공신경망을 최적화기법을 활용하여 최적화 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JNI를 사용하여 출력결과를 Android App과 연동 <br/>
